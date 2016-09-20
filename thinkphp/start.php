@@ -14,5 +14,9 @@ namespace think;
 // ThinkPHP 引导文件
 // 加载基础文件
 require __DIR__ . '/base.php';
+//自动生成
+if (APP_AUTO_BUILD && is_file(APP_PATH . 'build.php')) {
+    Build::run(include APP_PATH . 'build.php');
+}
 // 执行应用
 App::run()->send();

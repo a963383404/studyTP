@@ -1,0 +1,162 @@
+[ 2016-09-21T01:12:24+08:00 ] 172.17.0.2 192.168.1.101 GET /
+[ log ] 192.168.1.107:9099/ [运行时间：0.223977s][吞吐率：4.46req/s] [内存消耗：184.19kb] [文件加载：24]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'home' => '/var/www/vcmycloud',
+  'host' => '192.168.1.107:9099',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh,zh-CN;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/var/www/vcmycloud/runtime/log/',
+  'level' => 
+  array (
+  ),
+)
+
+---------------------------------------------------------------
+[ 2016-09-21T01:13:33+08:00 ] 172.17.0.2 192.168.1.101 GET /
+[ log ] 192.168.1.107:9099/ [运行时间：0.007455s][吞吐率：134.14req/s] [内存消耗：177.26kb] [文件加载：24]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'home' => '/var/www/vcmycloud',
+  'host' => '192.168.1.107:9099',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh,zh-CN;q=0.8',
+  'cookie' => 'think_var=zh',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/var/www/vcmycloud/runtime/log/',
+  'level' => 
+  array (
+  ),
+)
+
+---------------------------------------------------------------
+[ 2016-09-21T01:13:34+08:00 ] 172.17.0.2 192.168.1.101 GET /
+[ log ] 192.168.1.107:9099/ [运行时间：0.009645s][吞吐率：103.68req/s] [内存消耗：177.30kb] [文件加载：24]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'home' => '/var/www/vcmycloud',
+  'host' => '192.168.1.107:9099',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh,zh-CN;q=0.8',
+  'cookie' => 'think_var=zh',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/var/www/vcmycloud/runtime/log/',
+  'level' => 
+  array (
+  ),
+)
+
+---------------------------------------------------------------
+[ 2016-09-21T01:15:46+08:00 ] 172.17.0.2 192.168.1.101 GET /
+[ log ] 192.168.1.107:9099/ [运行时间：0.024819s][吞吐率：40.29req/s] [内存消耗：177.23kb] [文件加载：24]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'home' => '/var/www/vcmycloud',
+  'host' => '192.168.1.107:9099',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh,zh-CN;q=0.8',
+  'cookie' => 'think_var=zh',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/var/www/vcmycloud/runtime/log/',
+  'level' => 
+  array (
+  ),
+)
+
+---------------------------------------------------------------
+[ 2016-09-21T01:16:53+08:00 ] 172.17.0.2 192.168.1.101 GET /
+[ log ] 192.168.1.107:9099/ [运行时间：0.086919s][吞吐率：11.50req/s] [内存消耗：186.56kb] [文件加载：24]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'home' => '/var/www/vcmycloud',
+  'host' => '192.168.1.107:9099',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh,zh-CN;q=0.8',
+  'cookie' => 'think_var=zh',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] Method [ <user> public method index ] {
+  @@ /var/www/vcmycloud/application/index/controller/Index.php 6 - 9
+}
+
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/var/www/vcmycloud/runtime/log/',
+  'level' => 
+  array (
+  ),
+)
+
+---------------------------------------------------------------
