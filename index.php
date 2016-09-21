@@ -14,9 +14,12 @@
 // 开启调试模式
 define('APP_DEBUG',true);
 //开启自动创建
-//define("APP_AUTO_BUILD",true);
+define("APP_AUTO_BUILD",true);
 // 定义应用目录
 define('APP_PATH', __DIR__ . '/application/');
+//定义runtime文件目录
+define('RUNTIME_PATH',APP_PATH.'runtime/');
+define('LOG_PATH', RUNTIME_PATH . 'log/');
 
 // 加载框架引导文件
 require __DIR__ . '/thinkphp/start.php';

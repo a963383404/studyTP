@@ -16,11 +16,11 @@ return [
     '__file__' => ['common.php', 'config.php', 'database.php'],
     // 定义index模块的自动生成
     'index'    => [
-        '__file__'   => ['common.php'],
-        '__dir__'    => ['behavior', 'controller', 'model', 'view'],
+        '__file__'   => ['common.php','command.php'],
+        '__dir__'    => ['behavior', 'controller', 'model'],
         'controller' => ['Index', 'Test', 'UserType'],
         'model'      => [],
-        'view'       => ['index/index'],
+//        'view'       => ['index/index'],
     ],
     // 。。。 其他更多的模块定义
 ];
