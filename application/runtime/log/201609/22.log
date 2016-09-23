@@ -1,0 +1,767 @@
+[ 2016-09-22T11:33:17+08:00 ] 172.17.0.2 192.168.25.35 GET /
+[ log ] 192.168.1.105:9090/ [运行时间：0.106762s][吞吐率：9.37req/s] [内存消耗：293.53kb] [文件加载：33]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'home' => '/var/www/vcmycloud',
+  'host' => '192.168.1.105:9090',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] Method [ <user> public method index ] {
+  @@ /var/www/vcmycloud/application/index/controller/Index.php 8 - 13
+}
+
+[ info ] [ VIEW ] /var/www/vcmycloud/template/default/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/var/www/vcmycloud/application/runtime/log/',
+  'level' => 
+  array (
+  ),
+)
+
+---------------------------------------------------------------
+[ 2016-09-22T11:33:34+08:00 ] 172.17.0.2 192.168.25.35 GET /
+[ log ] 192.168.1.105:9090/ [运行时间：0.009882s][吞吐率：101.19req/s] [内存消耗：238.12kb] [文件加载：31]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'home' => '/var/www/vcmycloud',
+  'host' => '192.168.1.105:9090',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://192.168.1.105:9090/',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] Method [ <user> public method index ] {
+  @@ /var/www/vcmycloud/application/index/controller/Index.php 8 - 13
+}
+
+[ info ] [ VIEW ] /var/www/vcmycloud/template/default/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/var/www/vcmycloud/application/runtime/log/',
+  'level' => 
+  array (
+  ),
+)
+
+---------------------------------------------------------------
+[ 2016-09-22T13:46:01+08:00 ] 172.17.0.2 192.168.25.35 GET /
+[ log ] 192.168.1.105:9090/ [运行时间：0.112481s][吞吐率：8.89req/s] [内存消耗：296.03kb] [文件加载：33]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'home' => '/var/www/vcmycloud',
+  'host' => '192.168.1.105:9090',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] Method [ <user> public method index ] {
+  @@ /var/www/vcmycloud/application/index/controller/Index.php 8 - 13
+}
+
+[ info ] [ VIEW ] /var/www/vcmycloud/template/default/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/var/www/vcmycloud/application/runtime/log/',
+  'level' => 
+  array (
+  ),
+)
+
+---------------------------------------------------------------
+[ 2016-09-22T13:46:41+08:00 ] 172.17.0.2 192.168.25.35 GET /
+[ log ] 192.168.1.105:9090/ [运行时间：0.012124s][吞吐率：82.48req/s] [内存消耗：238.13kb] [文件加载：31]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'home' => '/var/www/vcmycloud',
+  'host' => '192.168.1.105:9090',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] Method [ <user> public method index ] {
+  @@ /var/www/vcmycloud/application/index/controller/Index.php 8 - 13
+}
+
+[ info ] [ VIEW ] /var/www/vcmycloud/template/default/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/var/www/vcmycloud/application/runtime/log/',
+  'level' => 
+  array (
+  ),
+)
+
+---------------------------------------------------------------
+[ 2016-09-22T13:53:15+08:00 ] 172.17.0.2 192.168.25.35 GET /
+[ log ] 192.168.1.105:9090/ [运行时间：0.004451s][吞吐率：224.67req/s] [内存消耗：236.17kb] [文件加载：31]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'home' => '/var/www/vcmycloud',
+  'host' => '192.168.1.105:9090',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] Method [ <user> public method index ] {
+  @@ /var/www/vcmycloud/application/index/controller/Index.php 8 - 13
+}
+
+[ info ] [ VIEW ] /var/www/vcmycloud/template/default/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/var/www/vcmycloud/application/runtime/log/',
+  'level' => 
+  array (
+  ),
+)
+
+---------------------------------------------------------------
+[ 2016-09-22T13:53:29+08:00 ] 172.17.0.2 192.168.25.35 GET /
+[ log ] 192.168.1.105:9090/ [运行时间：0.026793s][吞吐率：37.32req/s] [内存消耗：236.20kb] [文件加载：31]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'home' => '/var/www/vcmycloud',
+  'host' => '192.168.1.105:9090',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] Method [ <user> public method index ] {
+  @@ /var/www/vcmycloud/application/index/controller/Index.php 8 - 13
+}
+
+[ info ] [ VIEW ] /var/www/vcmycloud/template/default/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/var/www/vcmycloud/application/runtime/log/',
+  'level' => 
+  array (
+  ),
+)
+
+---------------------------------------------------------------
+[ 2016-09-22T13:54:30+08:00 ] 172.17.0.2 192.168.25.35 GET /
+[ log ] 192.168.1.105:9090/ [运行时间：0.011972s][吞吐率：83.53req/s] [内存消耗：288.83kb] [文件加载：33]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'home' => '/var/www/vcmycloud',
+  'host' => '192.168.1.105:9090',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://192.168.1.105:9090/',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] Method [ <user> public method index ] {
+  @@ /var/www/vcmycloud/application/index/controller/Index.php 8 - 13
+}
+
+[ info ] [ VIEW ] /var/www/vcmycloud/template/default/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/var/www/vcmycloud/application/runtime/log/',
+  'level' => 
+  array (
+  ),
+)
+
+---------------------------------------------------------------
+[ 2016-09-22T13:54:31+08:00 ] 172.17.0.2 192.168.25.35 GET /
+[ log ] 192.168.1.105:9090/ [运行时间：0.002056s][吞吐率：486.35req/s] [内存消耗：238.26kb] [文件加载：31]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'home' => '/var/www/vcmycloud',
+  'host' => '192.168.1.105:9090',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://192.168.1.105:9090/',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] Method [ <user> public method index ] {
+  @@ /var/www/vcmycloud/application/index/controller/Index.php 8 - 13
+}
+
+[ info ] [ VIEW ] /var/www/vcmycloud/template/default/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/var/www/vcmycloud/application/runtime/log/',
+  'level' => 
+  array (
+  ),
+)
+
+---------------------------------------------------------------
+[ 2016-09-22T13:55:23+08:00 ] 172.17.0.2 192.168.25.35 GET /
+[ log ] 192.168.1.105:9090/ [运行时间：0.010504s][吞吐率：95.20req/s] [内存消耗：288.83kb] [文件加载：33]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'home' => '/var/www/vcmycloud',
+  'host' => '192.168.1.105:9090',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://192.168.1.105:9090/',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] Method [ <user> public method index ] {
+  @@ /var/www/vcmycloud/application/index/controller/Index.php 8 - 13
+}
+
+[ info ] [ VIEW ] /var/www/vcmycloud/template/default/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/var/www/vcmycloud/application/runtime/log/',
+  'level' => 
+  array (
+  ),
+)
+
+---------------------------------------------------------------
+[ 2016-09-22T13:56:30+08:00 ] 172.17.0.2 192.168.25.35 GET /
+[ log ] 192.168.1.105:9090/ [运行时间：0.014110s][吞吐率：70.87req/s] [内存消耗：288.83kb] [文件加载：33]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'home' => '/var/www/vcmycloud',
+  'host' => '192.168.1.105:9090',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://192.168.1.105:9090/',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] Method [ <user> public method index ] {
+  @@ /var/www/vcmycloud/application/index/controller/Index.php 8 - 13
+}
+
+[ info ] [ VIEW ] /var/www/vcmycloud/template/default/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/var/www/vcmycloud/application/runtime/log/',
+  'level' => 
+  array (
+  ),
+)
+
+---------------------------------------------------------------
+[ 2016-09-22T13:56:30+08:00 ] 172.17.0.2 192.168.25.35 GET /
+[ log ] 192.168.1.105:9090/ [运行时间：0.002259s][吞吐率：442.72req/s] [内存消耗：238.26kb] [文件加载：31]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'home' => '/var/www/vcmycloud',
+  'host' => '192.168.1.105:9090',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://192.168.1.105:9090/',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] Method [ <user> public method index ] {
+  @@ /var/www/vcmycloud/application/index/controller/Index.php 8 - 13
+}
+
+[ info ] [ VIEW ] /var/www/vcmycloud/template/default/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/var/www/vcmycloud/application/runtime/log/',
+  'level' => 
+  array (
+  ),
+)
+
+---------------------------------------------------------------
+[ 2016-09-22T14:01:30+08:00 ] 172.17.0.2 192.168.25.35 GET /
+[ log ] 192.168.1.105:9090/ [运行时间：0.011574s][吞吐率：86.40req/s] [内存消耗：297.11kb] [文件加载：33]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'home' => '/var/www/vcmycloud',
+  'host' => '192.168.1.105:9090',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://192.168.1.105:9090/',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] Method [ <user> public method index ] {
+  @@ /var/www/vcmycloud/application/index/controller/Index.php 8 - 13
+}
+
+[ info ] [ VIEW ] /var/www/vcmycloud/template/default/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/var/www/vcmycloud/application/runtime/log/',
+  'level' => 
+  array (
+  ),
+)
+
+---------------------------------------------------------------
+[ 2016-09-22T14:06:05+08:00 ] 172.17.0.2 192.168.25.35 GET /
+[ log ] 192.168.1.105:9090/ [运行时间：0.018956s][吞吐率：52.75req/s] [内存消耗：300.66kb] [文件加载：33]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'home' => '/var/www/vcmycloud',
+  'host' => '192.168.1.105:9090',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://192.168.1.105:9090/',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] Method [ <user> public method index ] {
+  @@ /var/www/vcmycloud/application/index/controller/Index.php 8 - 13
+}
+
+[ info ] [ VIEW ] /var/www/vcmycloud/template/default/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/var/www/vcmycloud/application/runtime/log/',
+  'level' => 
+  array (
+  ),
+)
+
+---------------------------------------------------------------
+[ 2016-09-22T14:07:16+08:00 ] 172.17.0.2 192.168.25.35 GET /
+[ log ] 192.168.1.105:9090/ [运行时间：0.020911s][吞吐率：47.82req/s] [内存消耗：300.66kb] [文件加载：33]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'home' => '/var/www/vcmycloud',
+  'host' => '192.168.1.105:9090',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://192.168.1.105:9090/',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] Method [ <user> public method index ] {
+  @@ /var/www/vcmycloud/application/index/controller/Index.php 8 - 13
+}
+
+[ info ] [ VIEW ] /var/www/vcmycloud/template/default/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/var/www/vcmycloud/application/runtime/log/',
+  'level' => 
+  array (
+  ),
+)
+
+---------------------------------------------------------------
+[ 2016-09-22T14:13:23+08:00 ] 172.17.0.2 192.168.25.35 GET /
+[ log ] 192.168.1.105:9090/ [运行时间：0.012254s][吞吐率：81.61req/s] [内存消耗：301.34kb] [文件加载：33]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'home' => '/var/www/vcmycloud',
+  'host' => '192.168.1.105:9090',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://192.168.1.105:9090/',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] Method [ <user> public method index ] {
+  @@ /var/www/vcmycloud/application/index/controller/Index.php 8 - 13
+}
+
+[ info ] [ VIEW ] /var/www/vcmycloud/template/default/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/var/www/vcmycloud/application/runtime/log/',
+  'level' => 
+  array (
+  ),
+)
+
+---------------------------------------------------------------
+[ 2016-09-22T14:16:21+08:00 ] 172.17.0.2 192.168.25.35 GET /
+[ log ] 192.168.1.105:9090/ [运行时间：0.007103s][吞吐率：140.79req/s] [内存消耗：301.44kb] [文件加载：33]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'home' => '/var/www/vcmycloud',
+  'host' => '192.168.1.105:9090',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://192.168.1.105:9090/',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] Method [ <user> public method index ] {
+  @@ /var/www/vcmycloud/application/index/controller/Index.php 8 - 13
+}
+
+[ info ] [ VIEW ] /var/www/vcmycloud/template/default/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/var/www/vcmycloud/application/runtime/log/',
+  'level' => 
+  array (
+  ),
+)
+
+---------------------------------------------------------------
+[ 2016-09-22T14:17:55+08:00 ] 172.17.0.2 192.168.25.35 GET /
+[ log ] 192.168.1.105:9090/ [运行时间：0.005507s][吞吐率：181.59req/s] [内存消耗：301.41kb] [文件加载：33]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'home' => '/var/www/vcmycloud',
+  'host' => '192.168.1.105:9090',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://192.168.1.105:9090/',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] Method [ <user> public method index ] {
+  @@ /var/www/vcmycloud/application/index/controller/Index.php 8 - 13
+}
+
+[ info ] [ VIEW ] /var/www/vcmycloud/template/default/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/var/www/vcmycloud/application/runtime/log/',
+  'level' => 
+  array (
+  ),
+)
+
+---------------------------------------------------------------
+[ 2016-09-22T14:18:20+08:00 ] 172.17.0.2 192.168.25.35 GET /
+[ log ] 192.168.1.105:9090/ [运行时间：0.004237s][吞吐率：236.02req/s] [内存消耗：301.44kb] [文件加载：33]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'home' => '/var/www/vcmycloud',
+  'host' => '192.168.1.105:9090',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://192.168.1.105:9090/',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] Method [ <user> public method index ] {
+  @@ /var/www/vcmycloud/application/index/controller/Index.php 8 - 13
+}
+
+[ info ] [ VIEW ] /var/www/vcmycloud/template/default/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/var/www/vcmycloud/application/runtime/log/',
+  'level' => 
+  array (
+  ),
+)
+
+---------------------------------------------------------------
+[ 2016-09-22T14:19:50+08:00 ] 172.17.0.2 192.168.25.35 GET /
+[ log ] 192.168.1.105:9090/ [运行时间：0.009762s][吞吐率：102.44req/s] [内存消耗：301.44kb] [文件加载：33]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'home' => '/var/www/vcmycloud',
+  'host' => '192.168.1.105:9090',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://192.168.1.105:9090/',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] Method [ <user> public method index ] {
+  @@ /var/www/vcmycloud/application/index/controller/Index.php 8 - 13
+}
+
+[ info ] [ VIEW ] /var/www/vcmycloud/template/default/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/var/www/vcmycloud/application/runtime/log/',
+  'level' => 
+  array (
+  ),
+)
+
+---------------------------------------------------------------
+[ 2016-09-22T14:36:52+08:00 ] 172.17.0.2 192.168.25.35 GET /
+[ log ] 192.168.1.105:9090/ [运行时间：0.010942s][吞吐率：91.39req/s] [内存消耗：237.95kb] [文件加载：31]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'home' => '/var/www/vcmycloud',
+  'host' => '192.168.1.105:9090',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] Method [ <user> public method index ] {
+  @@ /var/www/vcmycloud/application/index/controller/Index.php 8 - 13
+}
+
+[ info ] [ VIEW ] /var/www/vcmycloud/template/default/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/var/www/vcmycloud/application/runtime/log/',
+  'level' => 
+  array (
+  ),
+)
+
+---------------------------------------------------------------
