@@ -411,10 +411,15 @@ if (!function_exists('response')) {
      * @param string     $type
      * @return Response
      */
-    function response($data = [], $code = 200, $header = [], $type = 'html')
+    /*function response($data = [], $code = 200, $header = [], $type = 'html')
+    {
+        return Response::create($data, $type, $code, $header);
+    }*/
+    function response($data = [], $type = 'html', $code = 200, $header = [])
     {
         return Response::create($data, $type, $code, $header);
     }
+//    create($data = '', $type = '', $code = 200, array $header = [], $options = []);
 }
 
 if (!function_exists('view')) {

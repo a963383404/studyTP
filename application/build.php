@@ -22,5 +22,20 @@ return [
         'model'      => [],
 //        'view'       => ['index/index'],
     ],
+
+    // 定义index模块的自动生成
+    'admin'    => [
+        '__file__'   => ['common.php','command.php'],
+        '__dir__'    => ['behavior', 'controller', 'model','view'],
+        'controller' => ['Index', 'User'],
+        'model'      => [],
+        'view'       => ['user/index'],
+    ],
+
+    //定义api模块的自动生成
+    'api'      => [
+        'controller' => ['Error'],
+    ]
+
     // 。。。 其他更多的模块定义
 ];

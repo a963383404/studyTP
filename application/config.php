@@ -231,7 +231,8 @@ return [
 
     //模板输出替换
     'view_replace_str'  =>  [
-        '__PUBLIC__' => '/public',
-        '__BOWER__' => '/public/bower_components',
+        '__PUBLIC__'    => '/public',
+        '__BOWER__'     => '/public/bower_components',
+        '__STATIC__'    => '/public/static'
     ]
 ];
